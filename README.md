@@ -1,4 +1,3 @@
-About Me:
 Hello! I'm Samriddhi Verma, a B.Tech Computer Science Engineering student at SRM Institute of Science & Technology, Chennai, with a strong interest in applying technology to real-world issues. My particular passion lies in Fintech and the Stock Market, and the cutting-edge areas of Generative AI and Prompt Engineering. <br>Beyond academics, my passion for blogging and participation in debating and public speaking has sharpened my critical thinking, communication, and presentation abilities. I thrive on new challenges, learn quickly, and excel in both individual and collaborative environments.
 
 
