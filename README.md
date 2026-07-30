@@ -1,12 +1,12 @@
 # Hi, I'm Samriddhi Verma 👋
 
-Computer Science Engineering student passionate about applying technology to real-world problems. I'm especially drawn to **Artificial Intelligence**, the **Software Development**, and the cutting edge of **Generative AI** and **Fintech**.
+Computer Science Engineering student passionate about applying technology to real-world problems. I'm especially drawn to **Fintech**, the **Stock Market**, and the cutting edge of **Generative AI** and **Prompt Engineering**.
 
 Outside of academics, I write, debate, and do public speaking — which has sharpened how I think, communicate, and present ideas. I like new challenges, pick things up fast, and work well solo or on a team.
 
 - 📍 Chennai, Tamil Nadu, India
 - 🎓 Computer Science Engineering student
-- 💡 Interested in Artificial Intelligence, Generative AI, Fintech
+- 💡 Interested in Fintech, GenAI & Prompt Engineering
 - 🗣️ Blogger · Debater · Public Speaker
 
 ---
@@ -83,12 +83,9 @@ Outside of academics, I write, debate, and do public speaking — which has shar
 
 ### 🐍 Contribution Snake
 
-<!--START_SECTION:waka-->
-<!-- Add this via the "platane/snk" GitHub Action to animate your contribution graph -->
-<img src="https://raw.githubusercontent.com/samriddhiverma2534/samriddhiverma2534/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-<!--END_SECTION:waka-->
+<img src="https://raw.githubusercontent.com/samriddhiverma2534/samriddhiverma2534/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=samriddhiverma2534&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=samriddhiverma2534&color=blue&style=flat)
 
