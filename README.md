@@ -1,12 +1,12 @@
 # Hi, I'm Samriddhi Verma 👋
 
-Computer Science Engineering student passionate about applying technology to real-world problems. I'm especially drawn to **Fintech**, the **Stock Market**, and the cutting edge of **Generative AI** and **Prompt Engineering**.
+Computer Science Engineering student passionate about applying technology to real-world problems. I'm especially drawn to **Artificial Intelligence**, the **Software Development**, and the cutting edge of **Generative AI** and **Prompt Engineering**.
 
 Outside of academics, I write, debate, and do public speaking — which has sharpened how I think, communicate, and present ideas. I like new challenges, pick things up fast, and work well solo or on a team.
 
 - 📍 Chennai, Tamil Nadu, India
 - 🎓 Computer Science Engineering student
-- 💡 Interested in Fintech, GenAI & Prompt Engineering
+- 💡 Interested in Artificial Intelligence, Generative AI, Fintech
 - 🗣️ Blogger · Debater · Public Speaker
 
 ---
